@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "POCKEMONS",
+  "name": "Pockemons https://pokeapi.co/api/v2/pokemon/",
   "icons": [
     {
       "src": "favicon.ico",
